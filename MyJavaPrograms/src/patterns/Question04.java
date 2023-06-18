@@ -1,7 +1,10 @@
 package patterns;
 
-public class Question02 {
+public class Question04 {
+
 	public static void main(String[] args) {
-		System.out.println("no bye bro");
+		// TODO Auto-generated method stub
+
 	}
+
 }
